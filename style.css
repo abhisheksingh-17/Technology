@@ -103,6 +103,8 @@ header {
 }
 
 /* Responsive layout */
+/* Existing CSS rules */
+
 @media screen and (max-width: 768px) {
     /* Adjust the layout for screens with a maximum width of 768px */
     .container {
@@ -112,5 +114,18 @@ header {
     .technology {
       flex: 0 0 calc(25% - 2rem); /* Adjust width for smaller screens */
       max-width: calc(25% - 2rem); /* Adjust max-width for responsive resizing */
+      height: 100px; /* Adjust height for smaller screens */
+      padding: 0.5rem; /* Reduce padding for smaller screens */
+    }
+
+    .technology img {
+      max-width: 60%; /* Adjust image size for smaller screens */
+      max-height: 40%; /* Adjust image size for smaller screens */
+      margin-bottom: 0.3rem; /* Adjust margin for smaller screens */
+    }
+
+    .technology p {
+      font-size: 0.8rem; /* Adjust font size for smaller screens */
+      padding: 0.2rem 0; /* Adjust padding for text */
     }
 }
