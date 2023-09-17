@@ -2,10 +2,22 @@ body {
     text-align: center;
 }
 
+.gradient-color{
+	background: linear-gradient(to right, #f32170,#ff6b08, #cf23cf, #eedd44);
+	-webkit-background-clip: text; 
+	-webkit-text-fill-color: transparent;
+	font-weight: 500;
+	font-size: 30px;
+}
 .tabs {
-    display: flex;
+	padding: 0px 60px 0px 60px;
+    gap: 1px;
+    flex-wrap: wrap;
     justify-content: center;
-    margin-top: 1rem;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
 }
 
 .tab {
@@ -17,7 +29,10 @@ body {
 }
 
 .tab:hover {
-    color: darkslateblue;
+	background: linear-gradient(to right, #f32170,#ff6b08, #cf23cf, #7b5eea);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-weight: 500;
 }
 
 .tab.active {
@@ -51,6 +66,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 1rem;
+    padding-bottom: 80px;
 }
 
 .technologies.active {
@@ -140,4 +156,41 @@ header {
     .active-tab::after {
         bottom: -1px;
     }
+}
+
+@media screen and (max-width: 1050px) {
+
+
+    .technology {
+        flex: 0 0 calc(20% - 1rem);
+        max-width: calc(50% - 1rem);
+        height: auto;
+        margin: 0.5rem;
+    }
+
+}
+
+
+@media screen and (max-width: 768px) {
+
+
+    .technology {
+        flex: 0 0 calc(40% - 1rem);
+        max-width: calc(50% - 1rem);
+        height: auto;
+        margin: 0.5rem;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+
+
+    .technology {
+        flex: 0 0 calc(50% - 1rem);
+        max-width: calc(60% - 1rem);
+        height: auto;
+        margin: 0.5rem;
+    }
+
 }
