@@ -17,15 +17,15 @@ Now, let's delve deeper into the steps to get started with this project.
 
 ## Table Of Contents
 
- - [Installation]()
- - [Usage]()
- - [Acknowledgements]()
- - [Technologies Used]()
- - [Code Description]()
- - [Screenshots]()
- - [Future Scope]()
- - [Contributing]()
- - [License]()
+ - [Installation](https://github.com/abhisheksingh-17/Technology#installation)
+ - [Usage](https://github.com/abhisheksingh-17/Technology#usage)
+ - [Acknowledgements](https://github.com/abhisheksingh-17/Technology#acknowledgements)
+ - [Technologies Used](https://github.com/abhisheksingh-17/Technology#technologies-used)
+ - [Code Description](https://github.com/abhisheksingh-17/Technology#code-description)
+ - [Screenshots](https://github.com/abhisheksingh-17/Technology#screenshots)
+ - [Future Scope](https://github.com/abhisheksingh-17/Technology#future-scope)
+ - [Contributing](https://github.com/abhisheksingh-17/Technology#contributing)
+ - [License](https://github.com/abhisheksingh-17/Technology#license)
 ## Installation
 
 To use the Technology Stack Section on your local machine, follow these simple steps:
@@ -47,7 +47,7 @@ git clone https://github.com/abhisheksingh-17/Landing-Page-Section.git
 Change your working directory to the "Technology Stack Section" folder within the "Landing Page Section" repository:
 
 ```bash
-cd Landing-Page-Section/Technology-Stack-Section
+cd "Landing-Page-Section-Main/Technology Stack Section"
 ```
 3.Open the Project:
 
@@ -273,8 +273,6 @@ In summary, the hideOtherTechnologies function is responsible for hiding all tec
 
 The project's codebase is designed to be well-structured and modular, making it easy to understand and maintain. Developers can extend and customize the project by adding their own technology entries or modifying the code to suit their needs.
 ## Screenshots
-
-Footer Section-
 
  - Technology Stack Section-
 
