@@ -12,7 +12,6 @@ Sorting Options: Provide the capability to sort technologies in ascending order,
 
  - Customization: Easily tailor the content to align with your specific needs.
 
-Now, let's delve deeper into the steps to get started with this project.
 
 
 ## Table Of Contents
