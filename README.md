@@ -93,15 +93,15 @@ Here's how you can effectively use this section:
 By effectively utilizing the "Technology Stack Section," you can create an engaging and informative experience for your website visitors, showcasing your skills and expertise in a visually appealing manner.
 ## Acknowledgements
 
-I would like to extend our gratitude to the following individuals and organizations for their contributions and support in creating the Technology Stack Section:
+I would like to extend my gratitude to the following individuals and organizations for their contributions and support in creating the Technology Stack Section:
 
- - Open Source Community: We appreciate the open-source community for providing valuable resources and tools that made this project possible.
+ - Open Source Community: I appreciate the open-source community for providing valuable resources and tools that made this project possible.
 
  - GitHub: A big thank you to GitHub for hosting this project and facilitating collaboration among developers.
 
  - Shopdev Website: I take the reference structure from this website.
 
-This project would not have been successful without the collective efforts and support of these entities. We are grateful for the community and resources that have enriched our development journey.
+This project would not have been successful without the collective efforts and support of these entities. I am grateful for the community and resources that have enriched our development journey.
 ## Technologies Used
 
 The Technology Stack Section project utilizes a combination of web development technologies to create an interactive display of technology stacks. Here are the key technologies and tools used in this project:
